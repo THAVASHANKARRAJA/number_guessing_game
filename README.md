@@ -1,4 +1,4 @@
-# digital_clock
+# number_guessing_game
 this is a project which is developed with javax.swing module 
-it is basically a digital watch which shows the current time
-check the code for more information
+it is a simple game to guess a number and check whether the number is correct or wrong
+if the number is correct you will win and if it's wrong you will be choosing another number
